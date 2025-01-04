@@ -13,24 +13,30 @@
         <h2>Packages</h2>
         <p>There are multiple ways we can get you to navigate around the city, through uber services(private Tours), or through group travels!.</p>
         <ul>
-            <li><a src="#link1">Group Travels</a></li>
-            <li><a src="link2">Private Travels</a></li>
+            <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+            <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
         </ul>
 
         <h2>Top Itineraries</h2>
-        <figure>
-            <figcaption>Adventures</figcaption>
-            <img src="https://media.istockphoto.com/id/1561239522/photo/young-woman-taking-a-photo-of-the-sunset.jpg?s=1024x1024&w=is&k=20&c=-SdJGkr2n-669gz5pFIx_iSdhG0519qZqKi-nGNj_P8=" alt="image of a lady" width="200px" />
-        </figure>
-        <figure>
-             <figcaption>Capture the moment</figcaption>
-             <img src="https://cdn.pixabay.com/photo/2023/09/20/19/47/stones-8265502_1280.jpg" alt="image 2" width="200px">
-        </figure>
-        <figure>
-             <figcaption>Capture the moment</figcaption>
-             <img src="https://cdn.pixabay.com/photo/2023/09/20/19/47/stones-8265502_1280.jpg" alt="image 2" width="200px"/>
-        </figure>
-
+        <section>
+           
+              <figure>
+                  
+                  <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://media.istockphoto.com/id/1561239522/photo/young-woman-taking-a-photo-of-the-sunset.jpg?s=1024x1024&w=is&k=20&c=-SdJGkr2n-669gz5pFIx_iSdhG0519qZqKi-nGNj_P8=" alt="image of a lady" width="200px" /></a>
+                  <figcaption>Adventures</figcaption>
+              </figure>
+              <figure>
+                 
+                  <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://cdn.pixabay.com/photo/2023/09/20/19/47/stones-8265502_1280.jpg" alt="image 2" width="200px"></a>
+                   <figcaption>Capture the moment</figcaption>
+              </figure>
+              <figure>
+                  
+                  <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://cdn.pixabay.com/photo/2018/11/29/21/19/hamburg-3846525_1280.jpg" alt="image 3" width="200px"/></a>
+                  <figcaption>Live on the go!</figcaption>
+              </figure>
+            
+          </section>
 
 
     </body>
