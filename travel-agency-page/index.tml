@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-state=1.0">
+        <meta property="og:type" content="website">
+        <title>Travel Agency Page</title>
+    </head>
+    <body>
+        <h1>Travel Around Nelspruit</h1>
+        <p>Welcome to the LungstarCode travel agency, we just too good at taking you around Nelspruit.</p>
+
+        <h2>Packages</h2>
+        <p>There are multiple ways we can get you to navigate around the city, through uber services(private Tours), or through group travels!.</p>
+        <ul>
+            <li><a src="#link1">Group Travels</a></li>
+            <li><a src="link2">Private Travels</a></li>
+        </ul>
+
+        <h2>Top Itineraries</h2>
+        <figure>
+            <figcaption>Adventures</figcaption>
+            <img src="https://media.istockphoto.com/id/1561239522/photo/young-woman-taking-a-photo-of-the-sunset.jpg?s=1024x1024&w=is&k=20&c=-SdJGkr2n-669gz5pFIx_iSdhG0519qZqKi-nGNj_P8=" alt="image of a lady" width="200px" />
+        </figure>
+        <figure>
+             <figcaption>Capture the moment</figcaption>
+             <img src="https://cdn.pixabay.com/photo/2023/09/20/19/47/stones-8265502_1280.jpg" alt="image 2" width="200px">
+        </figure>
+        <figure>
+             <figcaption>Capture the moment</figcaption>
+             <img src="https://cdn.pixabay.com/photo/2023/09/20/19/47/stones-8265502_1280.jpg" alt="image 2" width="200px"/>
+        </figure>
+
+
+
+    </body>
+</html>
